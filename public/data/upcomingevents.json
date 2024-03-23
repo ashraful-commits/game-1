@@ -1,0 +1,30 @@
+[
+  {
+    "imgUrl": "/event_img_1.jpg",
+    "name": "Golf Festival",
+    "date": "Nov 01 - Nov 04, 2023",
+    "url": "#",
+    "participants": "128"
+  },
+  {
+    "imgUrl": "/event_img_2.jpg",
+    "name": "Golf Reunion",
+    "date": "Dec 06 - Dec 09, 2023",
+    "url": "#",
+    "participants": "328"
+  },
+  {
+    "imgUrl": "/event_img_1.jpg",
+    "name": "Golf Festival",
+    "date": "Nov 01 - Nov 04, 2023",
+    "url": "#",
+    "participants": "128"
+  },
+  {
+    "imgUrl": "/event_img_2.jpg",
+    "name": "Golf Reunion",
+    "date": "Dec 06 - Dec 09, 2023",
+    "url": "#",
+    "participants": "328"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "imgUrl": "/t1.jpg",
+    "name": "Lily Saunders",
+    "id": "3124",
+    "points": "120",
+    "gameName": "Real Golf 2011",
+    "gameImg": "/g1.jpg"
+  },
+  {
+    "imgUrl": "/t2.jpg",
+    "name": "Franklin Jackson",
+    "id": "124",
+    "points": "320",
+    "gameName": "Flick Golf",
+    "gameImg": "/flick-golf.png"
+  },
+  {
+    "imgUrl": "/t3.jpg",
+    "name": "Kyle Duncan",
+    "id": "4124",
+    "points": "420",
+    "gameName": "Golfer",
+    "gameImg": "/golfer.png"
+  },
+  {
+    "imgUrl": "/t4.jpg",
+    "name": "Lily Saunders",
+    "id": "3124",
+    "points": "120",
+    "gameName": "Real Golf 2011",
+    "gameImg": "/g1.jpg"
+  },
+  {
+    "imgUrl": "/t5.jpg",
+    "name": "Franklin Jackson",
+    "id": "124",
+    "points": "820",
+    "gameName": "Golfer",
+    "gameImg": "/golfer.png"
+  }
+]

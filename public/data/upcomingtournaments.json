@@ -1,0 +1,34 @@
+[
+  {
+    "imgUrl": "/tournament1.jpg",
+    "name": "War zone Tournament",
+    "date": "NOV 01, 2023 STARTING AT 6:00 AM",
+    "prize": "2500",
+    "participant": "128",
+    "url": "#"
+  },
+  {
+    "imgUrl": "/tournament2.jpg",
+    "name": "War zone Tournament",
+    "date": "DEC 16, 2023 STARTING AT 4:00 AM",
+    "prize": "200",
+    "participant": "221",
+    "url": "#"
+  },
+  {
+    "imgUrl": "/tournament3.jpg",
+    "name": "War zone Tournament",
+    "date": "JAN 12, 2024 STARTING AT 3:00 AM",
+    "prize": "1300",
+    "participant": "321",
+    "url": "#"
+  },
+  {
+    "imgUrl": "/tournament4.jpg",
+    "name": "War zone Tournament",
+    "date": "MAR 09, 2024 STARTING AT 2:00 AM",
+    "prize": "7000",
+    "participant": "113",
+    "url": "#"
+  }
+]

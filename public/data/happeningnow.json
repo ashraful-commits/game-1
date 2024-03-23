@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Flick Golf Tournaments 2024",
+    "logo": "/golf.jpg",
+    "teamA": "BALLS OF FIRE",
+    "teamAScore": "2",
+    "teamaImg": "/team-a.png",
+    "teamB": "BACK SPINNERS",
+    "teambImg": "/team-b.png",
+    "teamBScore": "3"
+  },
+  {
+    "name": "Golfer Pro Tournaments 2024",
+    "logo": "/golfer.png",
+    "teamA": "STROKE KINGS",
+    "teamAScore": "3",
+    "teamaImg": "/team-a2.png",
+    "teamB": "BACK SPINNERS",
+    "teambImg": "/team-b.png",
+    "teamBScore": "4"
+  }
+]

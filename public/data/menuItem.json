@@ -1,0 +1,32 @@
+[
+  {
+    "name": "News Feed",
+    "url": "/dashboard",
+    "icon": "Globe"
+  },
+  {
+    "name": "Tournaments",
+    "url": "/",
+    "icon": "Trophy"
+  },
+  {
+    "name": "Leagues",
+    "url": "/",
+    "icon": "ShieldX"
+  },
+  {
+    "name": "Redeem",
+    "url": "/",
+    "icon": "Gift"
+  },
+  {
+    "name": "Leaderboards",
+    "url": "/leaderboards",
+    "icon": "BarChart4"
+  },
+  {
+    "name": "Settings",
+    "url": "/",
+    "icon": "Cog"
+  }
+]
